@@ -25,7 +25,7 @@ This is a simple Todo List web application built using React. Keep track of your
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-list-react.git`
+1. Clone the repository: `git clone https://github.com/rohanAdhikari1/Todo-List.git`
 2. Navigate to the project directory: `cd todo-list-react`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
