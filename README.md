@@ -1,8 +1,39 @@
-# React + Vite
+# TODO-LIST IN REACT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This is a simple Todo List web application built using React. Keep track of your tasks and stay organized with this easy-to-use and intuitive application.
 
-Currently, two official plugins are available:
+## Author
+- **[Rohan Adhikari](https://rohanadhikari.com.np/).**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add new tasks to your todo list
+- Mark tasks as complete
+- Delete tasks you no longer need
+- Clean and intuitive user interface
+- Responsive design
+- Validated Inputs
+
+## Technologies Used
+- React
+- HTML
+- CSS
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/todo-list-react.git`
+2. Navigate to the project directory: `cd todo-list-react`
+3. Install dependencies: `npm install`
+4. Run the application: `npm start`
+
+## Usage
+1. Open the application in your web browser.
+2. Add tasks using the input field.
+3. Mark tasks as complete by clicking the checkbox.
+4. Delete tasks by clicking the delete button.
+5. Stay organized and keep track of your tasks effortlessly!
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or create a pull request.
+
+Thank you for using the Todo List Web Application! If you have any questions or feedback, feel free to contact the author, Rohan Adhikari, through [website](https://rohanadhikari.com.np/).
+
